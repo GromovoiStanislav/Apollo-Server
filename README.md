@@ -8,3 +8,4 @@
 - 6 - Apollo-server (ts) with Prisma
 - 7 - Apollo-server (ts) Error Handling
 - 8 - Apollo-server (ts)
+- 9 - Apollo-server (js) with MongoDB
