@@ -1,1 +1,1 @@
-## Apollo-server (ts) - Blog-app with Prisma, Authentication JWT
+## Apollo-server (ts) - Blog-app with Prisma, Authentication JWT, validator

@@ -4,8 +4,9 @@
 - 2 - Apollo-server (js)
 - 3 - Apollo-server (js)
 - 4 - Apollo-server (js)
-- 5 - Apollo-server (ts) with Prisma, Authentication JWT
+- 5 - Apollo-server (ts) with Prisma, Authentication JWT, validator
 - 6 - Apollo-server (ts) with Prisma
 - 7 - Apollo-server (ts) Error Handling
 - 8 - Apollo-server (ts)
 - 9 - Apollo-server (js) with MongoDB
+- 10 - Apollo-server (js) with MongoDB, Authentication JWT, validator, Error Handling
