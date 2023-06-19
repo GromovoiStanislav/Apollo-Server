@@ -10,3 +10,4 @@
 - 8 - Apollo-server (ts)
 - 9 - Apollo-server (js) with MongoDB
 - 10 - Apollo-server (js) with MongoDB, Authentication JWT, validator, Error Handling
+- 11 - Apollo-server (js) unions
