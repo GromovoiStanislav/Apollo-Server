@@ -1,0 +1,20 @@
+{
+  "name": "recipe-app-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.7.4",
+    "dotenv": "^16.3.1",
+    "graphql": "^16.7.1",
+    "graphql-tag": "^2.12.6",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.3.1"
+  }
+}
