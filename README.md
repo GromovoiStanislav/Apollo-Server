@@ -14,3 +14,4 @@
 - 12 - Apollo-server (js) with with graphql-tag (+Authentication JWT, Mongoose)
 - 13 - Apollo-server (ts) with Express
 - 14 - Apollo-server (js) subscriptions with Express
+- 15 - Apollo-server (js) with Express, Mongoose
