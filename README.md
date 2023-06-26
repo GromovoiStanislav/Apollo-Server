@@ -12,4 +12,5 @@
 - 10 - Apollo-server (js) with MongoDB, Authentication JWT, validator, Error Handling
 - 11 - Apollo-server (js) unions
 - 12 - Apollo-server (js) with with graphql-tag (+Authentication JWT)
-- 12 - Apollo-server (ts) with Express
+- 13 - Apollo-server (ts) with Express
+- 14 - Apollo-server (js) subscriptions with Express
