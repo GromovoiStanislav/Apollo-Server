@@ -1,4 +1,4 @@
-## Apollo-server (js) with graphql-tag (+Authentication JWT)
+## Apollo-server (js) with graphql-tag (+Authentication JWT, Mongoose)
 
 ```
 mutation CreateUser {
