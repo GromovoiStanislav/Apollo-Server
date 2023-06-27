@@ -16,3 +16,4 @@
 - 14 - Apollo-server (js) subscriptions with Express
 - 15 - Apollo-server (js) with Express, Mongoose
 - 16 - Apollo-server (js) with Express, Mongoose
+- 17 - Apollo-server (ts) with Express, Prisma
