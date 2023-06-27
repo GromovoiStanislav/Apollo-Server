@@ -1,4 +1,4 @@
-## Apollo-server (ts) with Express, Prisma (with GraphQLResolveInfo)
+## Apollo-server (ts) with Express, Prisma (without GraphQLResolveInfo)
 
 ```
 npm i prisma -D
@@ -33,12 +33,16 @@ mutation CreatePost {
     input: {
       title: "Title 1"
       content: "content"
-      authorId: "d7288373-c6a3-485e-8446-a89601bb4c98"
+      authorId: "f98f9c19-96ad-47f6-91a7-172d1b74af40"
     }
   ) {
     id
     title
     content
+    author {
+      id
+      username
+    }
   }
 }
 
@@ -66,7 +70,9 @@ query Users {
       id
       title
       content
-      authorId
+      author {
+        id
+      }
     }
   }
 }
@@ -93,12 +99,15 @@ query Posts {
     author {
       id
       username
+      posts {
+        id
+      }
     }
   }
 }
 
 query Post {
-  post(id: "1bf8d126-6d8d-4360-8dd5-1069d96befbf") {
+  post(id: "828e7d41-6e8a-42d9-8d03-7b1d4b83d388") {
     id
     title
     content
@@ -106,6 +115,10 @@ query Post {
       id
       username
       email
+      posts {
+        id
+        title
+      }
     }
   }
 }
@@ -126,5 +139,4 @@ mutation DeleteUser {
     email
   }
 }
-
 ```

@@ -16,4 +16,5 @@
 - 14 - Apollo-server (js) subscriptions with Express
 - 15 - Apollo-server (js) with Express, Mongoose
 - 16 - Apollo-server (js) with Express, Mongoose
-- 17 - Apollo-server (ts) with Express, Prisma
+- 17 - v1 - Apollo-server (ts) with Express, Prisma (with GraphQLResolveInfo)
+- 17 - v2 - Apollo-server (ts) with Express, Prisma (without GraphQLResolveInfo)
