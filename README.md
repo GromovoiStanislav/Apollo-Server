@@ -18,3 +18,4 @@
 - 16 - Apollo-server (js) with Express, Mongoose
 - 17 - v1 - Apollo-server (ts) with Express, Prisma (with GraphQLResolveInfo)
 - 17 - v2 - Apollo-server (ts) with Express, Prisma (without GraphQLResolveInfo)
+- 18 - Apollo-server (ts) with Express, Mongoose
