@@ -20,3 +20,4 @@
 - 17 - v2 - Apollo-server (ts) with Express, Prisma (without GraphQLResolveInfo)
 - 18 - Apollo-server (ts) with Express, Mongoose
 - 19 - Apollo-server (ts) and type-graphql with Express, TypeORM
+- 20 - Apollo-server (js) and @graphql-tools/schema with Express, Mongoose
