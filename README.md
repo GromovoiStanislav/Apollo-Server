@@ -21,3 +21,4 @@
 - 18 - Apollo-server (ts) with Express, Mongoose
 - 19 - Apollo-server (ts) and type-graphql with Express, TypeORM
 - 20 - Apollo-server (js) and @graphql-tools/schema with Express, Mongoose
+- 21 - Apollo-server (js) upload files with Express, Mongoose
