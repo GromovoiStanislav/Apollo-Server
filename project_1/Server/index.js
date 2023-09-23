@@ -9,6 +9,7 @@ const typeDefs = `#graphql
 
   type Query {
     books: [Book]
+    book(idx: Int!): Book
   }
 `;
 
@@ -26,6 +27,7 @@ const books = [
 const resolvers = {
   Query: {
     books: () => books,
+    book: (parent, args) => books[args.idx],
   },
 };
 

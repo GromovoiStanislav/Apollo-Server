@@ -1,6 +1,6 @@
 ## Apollo-server examples:
 
-- 1 - Apollo-server (js)
+- 1 - Apollo-server & apollo-client example (JS)
 - 2 - Apollo-server (js)
 - 3 - Apollo-server (js)
 - 4 - Apollo-server (js)
